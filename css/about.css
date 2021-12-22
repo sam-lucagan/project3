@@ -157,7 +157,7 @@ p {
 
 .container {
   margin: auto;
-  max-width: 1500px;
+  max-width: auto;
   overflow: auto;
   padding: 0 20px;
 }
